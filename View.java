@@ -1,6 +1,3 @@
-// The contents of this file are dedicated to the public domain.
-// (See http://creativecommons.org/publicdomain/zero/1.0/)
-
 import javax.swing.JFrame;
 import java.awt.Graphics;
 import javax.swing.JPanel;

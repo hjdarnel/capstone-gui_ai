@@ -1,6 +1,3 @@
-// The contents of this file are dedicated to the public domain.
-// (See http://creativecommons.org/publicdomain/zero/1.0/)
-
 import java.awt.Graphics;
 import java.io.IOException;
 import javax.swing.Timer;
